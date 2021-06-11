@@ -1,0 +1,8 @@
+{
+	"token": "<token>",
+	"match_limit": 1,
+	"match_details_path": "data/match_details/",
+	"file_heroes": "data/heroes.json",
+	"sleep_matches": 2,
+	"sleep_match_details": 2
+}
